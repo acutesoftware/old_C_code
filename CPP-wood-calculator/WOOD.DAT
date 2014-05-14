@@ -1,0 +1,42 @@
+;following items show the cost per metre of the standard wood sizes
+;for each type of wood
+;The height goes down the file, while the width goes across the columns
+;the cost is in cents
+
+[Pine]
+WH  20  35  45
+45  35  45  85
+75  90  150 190
+90  95  190 245
+120 110 160 290
+190 180 210 350
+
+[PermaPine]
+WH  20  35  45
+45  75  95  135
+75  150 190 250
+90  255 280 355
+120 190 260 380
+190 380 470 750
+
+[Merranti]
+WH  20  35  45
+45  30  40  80
+75  85  140 180
+90  90  180 240
+120 105 150 280
+190 170 205 340
+
+[Oregon]
+WH  20  35  45
+45  85  95  160
+75  190 250 290
+90  210 290 345
+120 250 370 490
+190 280 410 550
+
+
+
+
+
+

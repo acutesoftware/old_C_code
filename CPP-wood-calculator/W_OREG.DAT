@@ -1,0 +1,17 @@
+;following items show the cost per metre of the standard wood sizes
+;the cost is in cents
+;Height x Width = CostPerMetreInCents
+
+[Cost]
+35x75=280
+35x90=425
+35x120=460
+35x190=550
+35x210=620
+45x75=350
+45x90=445
+45x120=540
+45x190=610
+45x210=830
+90x90=1380
+
