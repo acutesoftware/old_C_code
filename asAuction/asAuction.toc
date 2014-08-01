@@ -1,0 +1,6 @@
+## Interface: 40300
+## Title: asAuction
+## Notes: Acute Softwares Auction AddOn for WOW
+## SavedVariables: tblLogons
+asAuction.lua
+asAuction.xml
