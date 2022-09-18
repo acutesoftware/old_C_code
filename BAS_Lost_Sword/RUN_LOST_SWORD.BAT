@@ -1,0 +1,1 @@
+vzem.exe -f LOSTSWRD.VZ
